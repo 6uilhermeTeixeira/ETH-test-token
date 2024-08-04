@@ -1,9 +1,11 @@
 # ETHTestToken
-Código em Solidity para criação de Token Padrão em rede de tests da Ethereum...
+Código em Solidity para criação de Token Padrão em rede de tests da Ethereum desenvolvido durante formação de WEB3 Fundamentals da DIO
 
-IDE: https://remix.ethereum.org/
-TestNet: Sepolia TestNet
+## Tecnologias Utilizadas
+
+-Remix: Ethereum IDE
+-Sepolia TestNet: Ethereum Test Net
+
+## Como Usar
 
 ![Sem título](https://github.com/6uilhermeTeixeira/ETHTestToken/assets/58309213/5ce5c774-8dce-44c9-abc6-15805760677c)
-
-OBS: Código desenvolvido durante formação de WEB3 da DIO (Digital Innovation One)
