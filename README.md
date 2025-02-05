@@ -1,4 +1,4 @@
-# ETHTestToken
+# ETH Test Token
 Código em Solidity para criação de Token Padrão em rede de tests da Ethereum desenvolvido durante formação de WEB3 Fundamentals da DIO
 
 ## Tecnologias Utilizadas
@@ -14,7 +14,7 @@ Código em Solidity para criação de Token Padrão em rede de tests da Ethereum
     https://metamask.io/
 
 2. Configurar Meta Mask para acessar a Test Net:
-- Sepolia TestNet:
+-   Sepolia TestNet:
 -   Token: ETH
 -   Chain ID: 11155111
 -   Block Explorer: https://sepolia.etherscan.io
